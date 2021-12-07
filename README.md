@@ -32,7 +32,9 @@ korea tts using coqui tts
 ```
 
 # Acknowledgement and References 
-- [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS)     
+- [coqui tts](https://github.com/coqui-ai/TTS)
+- [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS)    
+- [glow tts](https://arxiv.org/abs/2005.11129) 
 - [Multi-band MelGAN](https://arxiv.org/abs/2005.05106)     
 - [FastSpeech 2](https://arxiv.org/abs/2006.04558)
 - [speech-japanese-korean-vietnamese](http://www.hieuthi.com/blog/2018/04/22/speech-japanese-korean-vietnamese.html)
