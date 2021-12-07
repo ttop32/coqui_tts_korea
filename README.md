@@ -22,21 +22,11 @@ korea tts using coqui tts
 # Required Environment to run
 ```python
 
-!git clone https://github.com/TensorSpeech/TensorFlowTTS.git
-!cd TensorFlowTTS&&pip install .
-!pip install git+https://github.com/repodiac/german_transliterate.git#egg=german_transliterate
-!pip install h5py==2.10.0
-
-!conda install cudatoolkit=11.2 -c pytorch -c nvidia
-!conda install -c conda-forge cudnn-8.2.1.32  
-!pip install tensorflow_gpu==2.6.0
-
-# !conda install cudatoolkit=11.1 -c pytorch -c nvidia -y
-# !conda install -c conda-forge cudnn-8.0.5.39 -y
-# !pip install tensorflow_gpu==2.4.0
-
-!pip install torchaudio==0.9.0 
+!pip install TTS
+!pip install jamo
+!pip install torchaudio==0.9.0
 !pip install gdown
+!conda install -c conda-forge kaggle -y
 !sudo apt-get install megatools
 
 ```
