@@ -1,6 +1,6 @@
 # coqui_tts_korea
 Korean TTS using coqui TTS - 한국어 TTS
-- [colab](https://bbs.ruliweb.com/news/board/1003/read/1962882)
+- [colab](https://colab.research.google.com/drive/1hv37sT7Pq-qKZe9Ihbbp5XZ-A9tsURli?usp=sharing)
 
 # Result
 - input text "신은 우리의 수학 문제에는 관심이 없다. 신은 다만 경험적으로 통합할 뿐이다."
@@ -12,11 +12,13 @@ Korean TTS using coqui TTS - 한국어 TTS
 # Train detail
 - glowtts
   - trained with kss data 50000 step
-  - train ipynb file :
+  - train ipynb file : coqui_train_glowtts.ipynb
+  - google drive link : https://drive.google.com/drive/folders/1quLOabjkAmmw6mFbcCsMqmGxMC4bbbCW
   
 - multiband-melgan
   - trained with korea concat data (KSS, Zeroth and Pansori-TEDxKR) 180000 step
-  - train ipynb file :
+  - train ipynb file : coqui_train_mbmelgan.ipynb
+  - google drive link : https://drive.google.com/drive/folders/1FOlcOjx47j_ALNw28rZkr62iOWqHY6tE 
     
 
 # Dataset
