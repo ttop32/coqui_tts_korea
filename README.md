@@ -11,7 +11,7 @@ Korean TTS using coqui TTS - 한국어 TTS
 
 # Train detail
 - glowtts
-  - trained with kss data 150000 step
+  - trained with kss data 50000 step
   - train ipynb file :
   
 - multiband-melgan
