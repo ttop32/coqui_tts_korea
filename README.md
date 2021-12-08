@@ -5,9 +5,9 @@ Korean TTS using coqui TTS - 한국어 TTS
 # Result
 - input text "신은 우리의 수학 문제에는 관심이 없다. 신은 다만 경험적으로 통합할 뿐이다."
 - output (glowtts with Griffin-Lim Vocoder)
-  - a
+  - https://github.com/ttop32/coqui_tts_korea/blob/main/doc/glowtts-griffinlim.mov?raw=true
 - output (glowtts with multiband-melgan Vocoder)
-  - a
+  - https://github.com/ttop32/coqui_tts_korea/blob/main/doc/glowtts-mbmelgan.mov?raw=true
 
 # Train detail
 - glowtts
@@ -57,3 +57,6 @@ Korean TTS using coqui TTS - 한국어 TTS
 - [SCE-TTS: 내 목소리로 TTS 만들기](https://gist.github.com/yunho0130/a97db3296314cd7076d8436238fa113a)  
 - [huggingface_fastspeech2_kss](https://huggingface.co/tensorspeech/tts-fastspeech2-kss-ko)
 - [huggingface_TensorFlowTTS](https://huggingface.co/spaces/akhaliq/TensorFlowTTS)
+
+
+
