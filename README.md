@@ -6,9 +6,9 @@ Korean TTS using coqui TTS - 한국어 TTS
 - input text 
   - "신은 우리의 수학 문제에는 관심이 없다. 신은 다만 경험적으로 통합할 뿐이다."
 - output (glowtts with Griffin-Lim Vocoder)
-  - https://user-images.githubusercontent.com/46513852/145218917-525ec217-28af-4386-b960-d0206d46a824.mov
+https://user-images.githubusercontent.com/46513852/145218917-525ec217-28af-4386-b960-d0206d46a824.mov
 - output (glowtts with multiband-melgan Vocoder)
-  - https://user-images.githubusercontent.com/46513852/145218889-765b2902-3ddc-42ad-874b-fa7a41f7af4f.mov
+https://user-images.githubusercontent.com/46513852/145218889-765b2902-3ddc-42ad-874b-fa7a41f7af4f.mov
 
 
 
