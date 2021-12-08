@@ -1,8 +1,11 @@
 # coqui_tts_korea
 Korean TTS using coqui TTS - 한국어 TTS
-
+- [colab](https://bbs.ruliweb.com/news/board/1003/read/1962882)
 
 # Result
+- input text "신은 우리의 수학 문제에는 관심이 없다. 신은 다만 경험적으로 통합할 뿐이다."
+- output (glowtts with )
+- output (glowtts with )
 
 
 # Train detail
@@ -30,6 +33,7 @@ Korean TTS using coqui TTS - 한국어 TTS
 !pip install torchaudio==0.9.0
 !pip install gdown
 !conda install -c conda-forge kaggle -y
+!pip install librosa
 
 ```
 
