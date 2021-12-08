@@ -1,5 +1,5 @@
 # coqui_tts_korea
-Korean TTS using coqui TTS - 한국어 TTS
+Korean TTS using coqui TTS (glowtts and multiband melgan) - 한국어 TTS
 - [colab](https://colab.research.google.com/drive/1hv37sT7Pq-qKZe9Ihbbp5XZ-A9tsURli?usp=sharing)
 
 # Result
