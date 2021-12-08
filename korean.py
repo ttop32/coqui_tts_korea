@@ -14,6 +14,10 @@
 # limitations under the License.
 
 # Code based on https://github.com/carpedm20/multi-speaker-tacotron-tensorflow
+
+# Code from https://github.com/TensorSpeech/TensorFlowTTS/blob/master/tensorflow_tts/utils/korean.py
+
+
 """Korean related helpers."""
 
 import ast
