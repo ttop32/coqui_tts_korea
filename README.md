@@ -67,6 +67,7 @@ https://user-images.githubusercontent.com/46513852/145219123-9124959d-8705-4123-
 - [SCE-TTS: 내 목소리로 TTS 만들기](https://gist.github.com/yunho0130/a97db3296314cd7076d8436238fa113a)  
 - [huggingface_fastspeech2_kss](https://huggingface.co/tensorspeech/tts-fastspeech2-kss-ko)
 - [huggingface_TensorFlowTTS](https://huggingface.co/spaces/akhaliq/TensorFlowTTS)
+- [jamo](https://github.com/JDongian/python-jamo)
 
 
 
