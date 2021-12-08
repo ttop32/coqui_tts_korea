@@ -6,6 +6,7 @@ Korean TTS using coqui TTS - 한국어 TTS
 - input text 
   - "신은 우리의 수학 문제에는 관심이 없다. 신은 다만 경험적으로 통합할 뿐이다."
 - output  
+
 https://user-images.githubusercontent.com/46513852/145219169-4afa5943-efd1-4792-83c4-44d10db55e3c.mov  
 
 https://user-images.githubusercontent.com/46513852/145219123-9124959d-8705-4123-adc7-e0e9cd8ceac8.mov  
