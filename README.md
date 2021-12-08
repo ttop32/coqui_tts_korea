@@ -1,5 +1,5 @@
 # coqui_tts_korea
-korea tts using coqui tts
+Korean TTS using coqui TTS - 한국어 TTS
 
 
 # Train detail
