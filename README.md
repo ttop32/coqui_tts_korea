@@ -2,14 +2,17 @@
 Korean TTS using coqui TTS - 한국어 TTS
 
 
-# Train detail
-- fastspeech2
-  - pretrained with kss data 150000 step, uses [fastspeech2.kss.v2](https://drive.google.com/drive/folders/1G3-AJnEsu2rYXYgo2iGIVJfCqqfbpwMu?usp=sharing)
-  - finetuned with half_life data 200000 step
+# Result
 
+
+# Train detail
+- glowtts
+  - trained with kss data 150000 step
+  - train ipynb file :
+  
 - multiband-melgan
-  - pretrained with korea concat data (KSS, Zeroth and Pansori-TEDxKR) 1000000 step
-  - finetuned with half_life data 4000000 step
+  - trained with korea concat data (KSS, Zeroth and Pansori-TEDxKR) 1000000 step
+  - train ipynb file :
     
 
 # Dataset
@@ -27,7 +30,6 @@ Korean TTS using coqui TTS - 한국어 TTS
 !pip install torchaudio==0.9.0
 !pip install gdown
 !conda install -c conda-forge kaggle -y
-!sudo apt-get install megatools
 
 ```
 
