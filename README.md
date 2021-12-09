@@ -68,7 +68,7 @@ https://user-images.githubusercontent.com/46513852/145219123-9124959d-8705-4123-
 - [huggingface_fastspeech2_kss](https://huggingface.co/tensorspeech/tts-fastspeech2-kss-ko)
 - [huggingface_TensorFlowTTS](https://huggingface.co/spaces/akhaliq/TensorFlowTTS)
 - [jamo](https://github.com/JDongian/python-jamo)
-
+- [korean.py](https://github.com/TensorSpeech/TensorFlowTTS/blob/master/tensorflow_tts/utils/korean.py)
 
 
 
