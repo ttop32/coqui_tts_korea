@@ -7,8 +7,6 @@ Korean TTS using coqui TTS (glowtts and multiband melgan) - 한국어 TTS
   - "신은 우리의 수학 문제에는 관심이 없다. 신은 다만 경험적으로 통합할 뿐이다."
 - output  
 
-https://user-images.githubusercontent.com/46513852/146552500-cab40264-4998-46bb-904c-62f0b4f66039.mov
-
 https://user-images.githubusercontent.com/46513852/146552491-76df02ca-870d-4900-ab47-e956ede4cb84.mov
 
 
