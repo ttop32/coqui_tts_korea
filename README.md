@@ -21,12 +21,12 @@ https://user-images.githubusercontent.com/46513852/145219123-9124959d-8705-4123-
 
 # Train detail
 - glowtts
-  - trained with kss data 50000 step
+  - trained with kss data 190000 step
   - train ipynb file : coqui_train_glowtts.ipynb
   - google drive link : https://drive.google.com/drive/folders/1quLOabjkAmmw6mFbcCsMqmGxMC4bbbCW
   
 - multiband-melgan
-  - trained with korea concat data (KSS, Zeroth and Pansori-TEDxKR) 180000 step
+  - trained with korea concat data (KSS, Zeroth and Pansori-TEDxKR) 150000 step
   - train ipynb file : coqui_train_mbmelgan.ipynb
   - google drive link : https://drive.google.com/drive/folders/1FOlcOjx47j_ALNw28rZkr62iOWqHY6tE 
     
