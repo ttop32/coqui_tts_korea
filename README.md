@@ -29,6 +29,7 @@ https://user-images.githubusercontent.com/46513852/146552491-76df02ca-870d-4900-
 - [KSS Dataset](https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset)
 - [Zeroth Korean](https://github.com/goodatlas/zeroth)
 - [Pansori-TEDxKR](https://github.com/yc9701/pansori-tedxkr-corpus)
+- [half_life_dataset](https://bbs.ruliweb.com/news/board/1003/read/1962882)
 
 
 # Required Environment to run
