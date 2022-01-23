@@ -13,6 +13,10 @@ https://user-images.githubusercontent.com/46513852/146552491-76df02ca-870d-4900-
 
 
 
+https://user-images.githubusercontent.com/46513852/150669352-d1c0aaf8-915b-498e-8441-32e99651fe1a.mov
+
+
+
 # Train detail
 - glowtts
   - trained with kss data 190000 step
