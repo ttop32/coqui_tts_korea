@@ -37,7 +37,7 @@ https://user-images.githubusercontent.com/46513852/150669352-d1c0aaf8-915b-498e-
   - google drive link : https://drive.google.com/drive/folders/1RubvJSDKZ_hNp3xj8mCocwtWG3KBmT4R?usp=sharing
 
 - halfLife finetuned multiband-melgan
-  - trained with korea concat data (KSS, Zeroth and Pansori-TEDxKR) + halfLife 20000 step
+  - trained with korea concat data (KSS, Zeroth and Pansori-TEDxKR) 150000 step + halfLife 20000 step
   - train ipynb file : halfLife_finetune_mbmelgan.ipynb
   - google drive link : https://drive.google.com/drive/folders/15eAW8jTHSIOAisiPQa03VOMOH-pACguc?usp=sharing
   
