@@ -2,6 +2,8 @@
 Korean TTS using coqui TTS (glowtts and multiband melgan) - 한국어 TTS
 - [colab](https://colab.research.google.com/drive/1hv37sT7Pq-qKZe9Ihbbp5XZ-A9tsURli?usp=sharing)
 
+finetune HalfLife scientits
+
 # Result
 - input text 
   - "신은 우리의 수학 문제에는 관심이 없다. 신은 다만 경험적으로 통합할 뿐이다."
