@@ -3,7 +3,7 @@ Korean TTS using coqui TTS (glowtts and multiband melgan) - 한국어 TTS
 - [colab](https://colab.research.google.com/drive/1hv37sT7Pq-qKZe9Ihbbp5XZ-A9tsURli?usp=sharing)
 
 pretrain with KSS data  
-finetune HalfLife scientit data  
+finetune HalfLife scientist data  
 
 # Result
 - input text 
